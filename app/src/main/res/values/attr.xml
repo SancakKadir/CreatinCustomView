@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dcaHorizontalCategoryListStyle" format="reference" />
+
+    <declare-styleable name="DcaHorizontalCategoryList">
+        <attr name="dcaTitle" format="string" />
+        <attr name="dcaTitleTextSize" format="dimension" />
+        <attr name="dcaTitleTextColor" format="color" />
+        <attr name="dcaTitleSidePadding" format="dimension" />
+        <attr name="dcaTitleBottomPadding" format="dimension" />
+    </declare-styleable>
+</resources>
